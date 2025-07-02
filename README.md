@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-- 💼 Software Engineer with a focus on building intelligent machines ****
+- 💼 Software Engineer with a focus on building intelligent machines 
 - 🛠️ Skilled in Python, scikit-learn, SQL, Pandas, NumPy, Matplotlib and Hugging Face 🤗
 - 🎓 Bachelor of Technology in Computer Science and Engineering, Institute of Engineering and Technology(DSMNRU)
 - 📫 Reach me at: gulshanyadav5359@gmail.com | [LinkedIn](www.linkedin.com/in/gulshan-yadav-969820290)
@@ -19,7 +19,7 @@
 ### 🛠️ Skills & Tools
 
 **Languages:**  
-Python, SQL, Bash, C++
+Python, SQL, Bash, C/C++
 
 **Machine Learning & Deep Learning:**  
 scikit-learn, PyTorch, TensorFlow, Keras, XGBoost, LightGBM
