@@ -37,7 +37,7 @@ Git, VSCode, Jupyter, Google Colab, Linux
 
 - 🤖 Machine Learning Specialization – Andrew Ng (Coursera)
 - 🌐 Introduction Generative AI  – Google Cloud
-
+- 📈 Learning Data Analytics: 1 Foundations - linkedln
 
 ---
 
