@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Gulshan Yadav 👋</h1>
 
 <p align="center">
-  A passionate <b>Machine Learning Engineer</b> | Open Source Contributor | Lifelong Learner
+  A passionate <b>Machine Learning & Data Analytics  Professional </b> | Open Source Contributor | Lifelong Learner
 </p>
 
 ---
@@ -25,7 +25,7 @@ Python, SQL, Bash, C/C++
 scikit-learn, PyTorch, TensorFlow, Keras, XGBoost, LightGBM
 
 **Data & Deployment:**  
-Pandas, NumPy, Matplotlib, Hugging Face, FastAPI, Docker, Streamlit, MLflow
+Pandas, NumPy, Matplotlib, Power BI, Hugging Face, FastAPI, Docker, Streamlit, MLflow
 
 **Other Tools:**  
 Git, VSCode, Jupyter, Google Colab, Linux
